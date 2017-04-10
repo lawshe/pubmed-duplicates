@@ -1,0 +1,17 @@
+{
+  "name": "pubmed",
+  "version": "0.0.1",
+  "description": "Find duplicate publications indexed at PubMed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lawshe",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.81.0",
+    "xml2json": "^0.11.0"
+  }
+}
