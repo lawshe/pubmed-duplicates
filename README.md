@@ -4,8 +4,8 @@ Find duplicate publications indexed at [PubMed](https://www.ncbi.nlm.nih.gov/pub
 ## Getting Started
 
 ```bash
-$ git clone _
-$ cd __
+$ git clone https://github.com/lawshe/pubmed-duplicates.git
+$ cd pubmed-duplicates
 $ npm install
 ```
 
