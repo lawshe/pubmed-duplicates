@@ -31,9 +31,9 @@ var sendRequestAndProcessArticle = (pmid, idx) => {
   });
 }
 
-var requets = {
+var request = {
   sendRequest,
   sendRequestAndProcessArticle
 }
 
-module.exports = requets;
+module.exports = request;
